@@ -1,0 +1,12 @@
+{
+  "name": "StarWars",
+  "displayName": "StarWars",
+  "expo": {
+    "name": "StarWars",
+    "slug": "StarWars",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
